@@ -5,11 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "this is a node express server",
-    "start" : "node index"
+    "start": "node index"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "morgan": "^1.9.0"
   }
 }
